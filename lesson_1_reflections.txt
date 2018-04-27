@@ -1,0 +1,20 @@
+What did I learned on Git training
+
+to trigger reflection ask questions starting with what and how.
+
+
+Motivation that comes from Git 
+
+excited to be the first and best from newtork engineers to support DevOps team
+
+excited to use sublime even for preparing network device configuration
+	- multiline changes 
+	- sublime looks so clean
+	- like to type commands
+
+------------
+
+how did viewing a diff between two versions of a file helo you see bug that was introduced?
+
+	it made it easier (faster) to identify
+
