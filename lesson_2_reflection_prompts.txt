@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? What value do yu think it offers?
+	
+	Working directory is stored locally.
+	Repository is stored on Get. It has in-built version control system.
+	Staging area give user option to select only specific files working directory files to be commited to repository.
